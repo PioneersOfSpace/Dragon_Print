@@ -23,14 +23,14 @@
 /**
  * Configuration.h
  *
- * Basic settings such as:
- *
- * - Type of electronics
- * - Type of temperature sensor
- * - Printer geometry
- * - Endstop configuration
- * - LCD controller
- * - Extra features
+ * CONFIG SPECIFICS:
+ * - Originally an Anet A8 
+ * - RAMPS 1.4 , DRV8825 in 1/32 Microstepping Mode, Induction bed sensor
+ * - 100k 3950
+ * - 220x220x240
+ * - Opto Endstops positioned at 0,0
+ * - No LCD
+ * - RGB LED Status
  *
  * Advanced settings can be found in Configuration_adv.h
  *
